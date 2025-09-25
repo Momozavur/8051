@@ -5521,7 +5521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 54.61 107.95 0)
 			(effects
 				(font
@@ -5673,7 +5673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 93.98 50.8 0)
 			(effects
 				(font
@@ -5827,7 +5827,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 98.7552 148.59 0)
 			(effects
 				(font
@@ -5963,7 +5963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 205.74 115.57 0)
 			(effects
 				(font
@@ -6051,7 +6051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 68.8848 148.59 0)
 			(effects
 				(font
@@ -6121,7 +6121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 86.36 78.74 0)
 			(effects
 				(font
@@ -6270,7 +6270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 166.0652 62.23 0)
 			(effects
 				(font
@@ -6470,7 +6470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "40P6_ATM"
+		(property "Footprint" "imports:40P6_ATM"
 			(at 106.68 77.47 0)
 			(effects
 				(font
@@ -6656,7 +6656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 226.06 87.63 0)
 			(effects
 				(font

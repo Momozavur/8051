@@ -784,7 +784,7 @@
 		(uuid "fe450390-caee-4498-8538-3012f5647a69")
 	)
 	(label "P3.2"
-		(at 109.22 90.17 0)
+		(at 109.22 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -804,7 +804,7 @@
 		(uuid "a3818d54-366e-4fd4-8869-2e14000ec370")
 	)
 	(label "P3.3"
-		(at 134.62 78.74 0)
+		(at 134.62 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -924,7 +924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 129.54 108.9152 0)
 			(effects
 				(font
@@ -991,7 +991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 96.52 108.9152 0)
 			(effects
 				(font
