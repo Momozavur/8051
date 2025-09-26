@@ -1,4 +1,4 @@
-26662101145181203
+26663860024306953
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106259,6 +106259,13 @@ AT89S51-24PU
 0
 40
 40
+imports
+500SSP1S1M2QEA
+500SSP1S1M2QEA-3
+Switch
+0
+3
+3
 imports
 601030_AVX
 
