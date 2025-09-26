@@ -2278,6 +2278,16 @@
 		)
 		(uuid "fcc9f3f2-88c8-40b4-9337-3fbc3f950fe4")
 	)
+	(label "VIN"
+		(at 57.15 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa51f366-2b3d-4a9b-b515-2e642f1b3cab")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 99.06 97.79 0)
@@ -2656,7 +2666,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:500SSP1S1M2QEA"
 			(at 69.85 95.25 0)
 			(effects
 				(font
@@ -3450,7 +3460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 186.69 110.49 0)
 			(effects
 				(font

@@ -575,24 +575,6 @@
 		(at 120.65 90.17)
 		(uuid "b853338e-b291-47ed-85f4-fffb49542e45")
 	)
-	(bus_entry
-		(at 106.68 68.58)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "247fae10-3080-4b45-b486-0d7b4b01d981")
-	)
-	(bus_entry
-		(at 132.08 68.58)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b6394d4-0369-4161-8067-f32ded1e2413")
-	)
 	(wire
 		(pts
 			(xy 91.44 107.95) (xy 96.52 107.95)
@@ -602,16 +584,6 @@
 			(type default)
 		)
 		(uuid "0c2edae3-9a12-49ee-8e6c-fde5dd97548a")
-	)
-	(bus
-		(pts
-			(xy 99.06 68.58) (xy 106.68 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d4bcb73-c8a1-4b0f-8b2d-3e3a9f40b6f1")
 	)
 	(wire
 		(pts
@@ -661,17 +633,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "8b6c8c43-b129-4d66-ac83-01e7ec346d2d")
-	)
-	(bus
-		(pts
-			(xy 106.68 68.58) (xy 132.08 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ec9a4f0-5a6f-4864-8714-6a1e62fb79dc")
+		(uuid "926caccc-0243-43d5-9433-2cd9a86773a0")
 	)
 	(wire
 		(pts
@@ -723,16 +685,6 @@
 		)
 		(uuid "c655022d-5e9b-4725-a8a0-8b62e1966e05")
 	)
-	(bus
-		(pts
-			(xy 132.08 68.58) (xy 138.43 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d970a5ba-9a68-4d77-af16-cefa9d7cd818")
-	)
 	(wire
 		(pts
 			(xy 116.84 95.25) (xy 120.65 95.25)
@@ -783,46 +735,27 @@
 		)
 		(uuid "fe450390-caee-4498-8538-3012f5647a69")
 	)
-	(label "P3.2"
-		(at 109.22 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "085c5a0b-44b9-43d3-beb9-d62dda8828d1")
-	)
-	(label "P3.[0..7]"
-		(at 138.43 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a3818d54-366e-4fd4-8869-2e14000ec370")
-	)
-	(label "P3.3"
-		(at 134.62 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e13b85ee-d404-4459-9d1e-33db93f05515")
-	)
-	(hierarchical_label "P3"
+	(hierarchical_label "P3.3"
 		(shape input)
-		(at 99.06 68.58 180)
+		(at 134.62 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "ecc40679-39a6-42b3-ad0c-d13a56859d8f")
+		(uuid "3b7dca87-d5ba-44e6-8e30-abc88305f026")
+	)
+	(hierarchical_label "P3.2"
+		(shape input)
+		(at 109.22 72.39 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a6b7acb8-dc8c-48f8-a884-a3691b50fcdd")
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Dual")
@@ -850,7 +783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H7.3mm"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -1125,7 +1058,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H7.3mm"
 			(at 100.33 100.33 0)
 			(effects
 				(font

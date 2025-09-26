@@ -5008,7 +5008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d80f78c-9739-4e7a-89b4-88f3fcceed28")
-		(property "Reference" "U7"
+		(property "Reference" "U8"
 			(at 180.34 33.0199 90)
 			(effects
 				(font
@@ -5026,7 +5026,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780"
 			(at 180.34 34.29 0)
 			(effects
 				(font
@@ -5086,7 +5086,7 @@
 		(instances
 			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/dd62a08f-b237-46a3-8243-a8f19a82c583"
-					(reference "U7")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -5270,7 +5270,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4b2c3f31-05f2-489b-9c0f-3c6fd6a23958")
 		(property "Reference" "U2"
 			(at 81.28 88.8999 90)
@@ -5290,7 +5289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:SOIC20_12P7X5P4_ONS"
 			(at 52.07 110.49 0)
 			(effects
 				(font
@@ -5482,7 +5481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780"
 			(at 233.68 34.29 0)
 			(effects
 				(font
@@ -5625,7 +5624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96c48a57-d99f-47b5-8e5a-a7543e15c257")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 73.66 33.0199 90)
 			(effects
 				(font
@@ -5643,7 +5642,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780"
 			(at 73.66 34.29 0)
 			(effects
 				(font
@@ -5703,7 +5702,7 @@
 		(instances
 			(project ""
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/dd62a08f-b237-46a3-8243-a8f19a82c583"
-					(reference "U5")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -6003,7 +6002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2a75ea8-38f3-485e-8458-1b91057e907e")
-		(property "Reference" "U8"
+		(property "Reference" "U5"
 			(at 241.3 88.8999 90)
 			(effects
 				(font
@@ -6021,7 +6020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:SOIC20_12P7X5P4_ONS"
 			(at 212.09 110.49 0)
 			(effects
 				(font
@@ -6113,7 +6112,7 @@
 		(instances
 			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/dd62a08f-b237-46a3-8243-a8f19a82c583"
-					(reference "U8")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -6232,7 +6231,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:SOIC20_12P7X5P4_ONS"
 			(at 105.41 110.49 0)
 			(effects
 				(font
@@ -6425,7 +6424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc64e694-342c-4ab0-88f5-ff83dd6c09a3")
-		(property "Reference" "U6"
+		(property "Reference" "U7"
 			(at 127 33.0199 90)
 			(effects
 				(font
@@ -6443,7 +6442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:7SegmentLED_LTS6760_LTS6780"
 			(at 127 34.29 0)
 			(effects
 				(font
@@ -6503,7 +6502,7 @@
 		(instances
 			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/dd62a08f-b237-46a3-8243-a8f19a82c583"
-					(reference "U6")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -6622,7 +6621,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "imports:SOIC20_12P7X5P4_ONS"
 			(at 158.75 110.49 0)
 			(effects
 				(font
