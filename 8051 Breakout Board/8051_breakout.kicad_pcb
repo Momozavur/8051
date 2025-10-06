@@ -23390,6 +23390,19 @@
 			(justify right bottom)
 		)
 	)
+	(gr_text "MOMCHIL\nKOLEV"
+		(at 92.964 68.834 0)
+		(layer "F.SilkS")
+		(uuid "49e00999-ce30-4d3f-9818-b5365f4f04d5")
+		(effects
+			(font
+				(size 1.6 1.8)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "RST\nSCK\nMISO"
 		(at 115.57 61.595 90)
 		(layer "F.SilkS")
