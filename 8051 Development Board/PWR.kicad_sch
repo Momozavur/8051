@@ -2447,7 +2447,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2"
+		(property "Value" "20"
 			(at 115.57 68.5799 0)
 			(effects
 				(font
@@ -3105,7 +3105,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2"
+		(property "Value" "20"
 			(at 100.33 68.5799 0)
 			(effects
 				(font
