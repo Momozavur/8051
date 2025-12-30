@@ -1,0 +1,8 @@
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Plugin executed on: 'darwin'
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 410:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 411:KiCad build version: 9.0.4
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 412:Plugin version: 4.0.3
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 413:Frame repr: <wx._core.Frame object at 0x1692c5430>
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 437:Preparing replicator with U6 as a reference
+09-26 14:27:26 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+09-26 14:51:51 board2pdf 31:File: /Users/momchilkolev/Documents/KiCad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2
