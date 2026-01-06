@@ -746,6 +746,50 @@
     [
       "371a2042-8129-48ec-942a-192da4ae603e",
       "LCD"
+    ],
+    [
+      "1dace99e-9901-453b-b2ef-c1312a4fd04e",
+      "ADC"
+    ],
+    [
+      "1e9db370-c4e8-4c0a-916d-12f56582ff8e",
+      "TEMP_SENSOR"
+    ],
+    [
+      "6fce213a-4bf9-47dc-885b-e62806183ec7",
+      "ADC_POT"
+    ],
+    [
+      "86c60fcb-117a-44db-92cf-71054f698c42",
+      "LIGHT_SENSOR"
+    ],
+    [
+      "eeffa668-df06-4cc1-8f6b-6c5e61b439da",
+      "EEPROM"
+    ],
+    [
+      "bbd22b3d-2abf-43e7-a208-52d608ff4776",
+      "RTC"
+    ],
+    [
+      "06dd8b67-4c34-4204-9e79-5d4cab9abdbb",
+      "8-LED_ARRAY"
+    ],
+    [
+      "0d343636-994e-47ff-9c1a-b1d9d2f62b4f",
+      "DIP_SWITCHES"
+    ],
+    [
+      "51075771-7027-42ea-9af8-c1a4409c6b91",
+      "RELAYS"
+    ],
+    [
+      "aa0e8dc8-3905-4d62-9b99-df49433f1b3c",
+      "BUZZER"
+    ],
+    [
+      "b24a00f6-0524-4140-82af-dcc13e8e5d8b",
+      "MOTOR_DRIVER"
     ]
   ],
   "text_variables": {},

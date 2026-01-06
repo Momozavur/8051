@@ -1232,10 +1232,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "34850b79-4d30-4021-9833-cd4431773aa0")
+			(uuid "4ac2a0a5-be73-4cb4-8bbb-2351eb93d8e9")
 		)
 		(pin "2"
-			(uuid "a69d28c4-4a80-4cef-8ad5-8200c9ded830")
+			(uuid "aedc7938-5d55-4109-a270-e3a1753c65e1")
 		)
 		(instances
 			(project "8051"
@@ -1301,7 +1301,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b1efeca3-a79a-4f1d-ad7e-0f5cd0056830")
+			(uuid "3ab7e916-b971-481b-9564-40cbb5a3e6d7")
 		)
 		(instances
 			(project "8051"
@@ -1367,22 +1367,22 @@
 			)
 		)
 		(pin "4"
-			(uuid "c3ed3d80-2c3a-43ad-a194-70ecb104542e")
+			(uuid "e9b68346-8516-4281-a436-7b3190605eac")
 		)
 		(pin "1"
-			(uuid "68bdecf6-df97-40ff-9fa8-42ed4fef2206")
+			(uuid "9891a5f0-c28d-4aa3-8b93-9c1c48e827ff")
 		)
 		(pin "5"
-			(uuid "481d1bfa-e2af-4f2c-8284-745bc1db8745")
+			(uuid "7238512e-2502-415d-8a3b-b4374f82164a")
 		)
 		(pin "2"
-			(uuid "e6ac2563-2368-4a06-98b1-4c03f2e487be")
+			(uuid "d58e5f9e-73b0-4802-8d22-d39ab9f1544a")
 		)
 		(pin "3"
-			(uuid "4099057b-ae07-4ce5-96dd-fdb94b512a4d")
+			(uuid "d0d47591-8188-4a5f-b5ac-4bce37cca0b8")
 		)
 		(pin "6"
-			(uuid "ba034aa7-9be5-473e-b10c-af6a58c2df19")
+			(uuid "cacc7b48-be40-4138-813c-9241e4b194fa")
 		)
 		(instances
 			(project "8051"
@@ -1449,7 +1449,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "42f0a150-5c93-482a-ad62-f2d3d82c80c0")
+			(uuid "d278b226-69f8-46ca-86f9-593b8a69d8f0")
 		)
 		(instances
 			(project "8051"
@@ -1515,7 +1515,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2022fa65-d79c-4fbd-80c4-6f305ef6d570")
+			(uuid "82ce98d8-c57a-43c2-92d4-de1df41547e9")
 		)
 		(instances
 			(project "8051"
@@ -1582,7 +1582,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "bbc2d7f1-3829-47e6-b22e-188f9a01207f")
+			(uuid "267794d8-da79-4852-9e81-8153257eac8e")
 		)
 		(instances
 			(project "8051"
@@ -1647,10 +1647,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4dc426eb-8b4c-4ca9-8f61-c06c82011644")
+			(uuid "f41cb186-8e41-4016-83e3-1d986b7179f5")
 		)
 		(pin "1"
-			(uuid "71208f84-02f9-4485-b8ae-7b88eaf4ce04")
+			(uuid "91652e64-df5f-4385-9cee-30ceb510866e")
 		)
 		(instances
 			(project "8051"
@@ -1717,10 +1717,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "110a2c40-2456-48a8-9786-ad5b25d98244")
+			(uuid "199ab00d-47b0-4a80-9653-b95801ae6702")
 		)
 		(pin "2"
-			(uuid "5028c5e9-1ccd-41a7-b103-d612f1925fca")
+			(uuid "14d04c9c-9af3-4d4d-af17-73b9709f6553")
 		)
 		(instances
 			(project "8051"

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Ultra_DB_X51_v1-rescue")(type "Legacy")(uri "${KIPRJMOD}/Ultra_DB_X51_v1-rescue.lib")(options "")(descr ""))
+)
