@@ -627,7 +627,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 134.62 90.17)
+			(xy 134.62 76.2) (xy 134.62 90.17)
 		)
 		(stroke
 			(width 0)
@@ -677,7 +677,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 71.12) (xy 109.22 90.17)
+			(xy 109.22 76.2) (xy 109.22 90.17)
 		)
 		(stroke
 			(width 0)
@@ -737,7 +737,7 @@
 	)
 	(hierarchical_label "P3.3"
 		(shape input)
-		(at 134.62 72.39 90)
+		(at 134.62 76.2 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -748,7 +748,7 @@
 	)
 	(hierarchical_label "P3.2"
 		(shape input)
-		(at 109.22 72.39 90)
+		(at 109.22 76.2 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -811,16 +811,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "9a797bf1-4684-4be1-8fbc-cf5a10e1d936")
+			(uuid "8d5217c0-96ac-4073-8828-f1db620abd76")
 		)
 		(pin "2"
-			(uuid "d7f624b3-3266-4459-8392-8c971ba0174d")
+			(uuid "de74e4e5-9519-4887-b041-acb14e8bb41d")
 		)
 		(pin "3"
-			(uuid "5a7859fc-fa97-4bc1-ab60-f20455a6fc7e")
+			(uuid "a4b6c1c2-37a5-423d-b09a-4337aacbf2c6")
 		)
 		(pin "1"
-			(uuid "47f75c7b-4b99-43ca-8de3-8a33b27a35e7")
+			(uuid "7a882ab3-9c11-457e-8a06-8548ddcdb5b6")
 		)
 		(instances
 			(project "8051"
@@ -857,7 +857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 129.54 108.9152 0)
 			(effects
 				(font
@@ -885,10 +885,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8d2c25dc-cd1a-4f0f-9888-4cafe5332434")
+			(uuid "8d3489ce-9290-40fb-abc9-fb1de9fe089e")
 		)
 		(pin "2"
-			(uuid "f344ebe4-f143-44b7-ac9d-a99e78352c7c")
+			(uuid "c69744bf-e899-47cc-96ce-7f3b93ffef9c")
 		)
 		(instances
 			(project "8051"
@@ -924,7 +924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 96.52 108.9152 0)
 			(effects
 				(font
@@ -952,13 +952,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "334841a9-d03c-46f6-b2a7-c6eb3a059eca")
+			(uuid "26149528-a833-4661-90cf-f36e876e0c31")
 		)
 		(pin "2"
-			(uuid "6f194a59-adb1-4e47-a5a0-ad50129358c5")
+			(uuid "6b363946-5e08-4c3a-afe1-c65eb0e01170")
 		)
 		(instances
-			(project ""
+			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/3a1aa146-c8fa-4481-b1c3-c9a11d3b1e91"
 					(reference "C6")
 					(unit 1)
@@ -976,7 +976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70b96b54-be8d-452d-b4ae-fad1d7d4e573")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR0101"
 			(at 91.44 115.57 0)
 			(effects
 				(font
@@ -1021,12 +1021,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b7a34ae8-dbc1-4c46-b568-de2617fb07e0")
+			(uuid "af1e43ac-7b25-4ce1-9d11-88e129545f77")
 		)
 		(instances
-			(project ""
+			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7/3a1aa146-c8fa-4481-b1c3-c9a11d3b1e91"
-					(reference "#PWR011")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -1086,16 +1086,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "3183714a-732e-4ac3-a0e4-0a8ab99bec17")
+			(uuid "3facaf53-8b4c-4aa5-b59f-fa7e495390ee")
 		)
 		(pin "2"
-			(uuid "04b8221d-6614-4469-aefc-fd7c1ef8d0b9")
+			(uuid "93ad7e27-a6da-42de-ae5b-b09ba1609db7")
 		)
 		(pin "3"
-			(uuid "6d1833ed-b961-4999-af0c-6c2d7d9d2b46")
+			(uuid "019a14a5-ac74-4be6-91f0-c62bcd033e7b")
 		)
 		(pin "1"
-			(uuid "d5a9fcb7-9e94-4ea5-a670-a488eb347724")
+			(uuid "80f74ef9-8de7-4254-9482-3d77342f2b03")
 		)
 		(instances
 			(project "8051"
@@ -1161,7 +1161,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "db553403-8852-46b0-8270-e1f8397334a4")
+			(uuid "27cdba6a-c92a-4e9c-a70c-500a55bd9f48")
 		)
 		(instances
 			(project "8051"

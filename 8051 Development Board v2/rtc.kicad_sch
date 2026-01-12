@@ -1466,6 +1466,16 @@
 		)
 		(uuid "0e974ce1-f180-44a6-98d2-557922617b6e")
 	)
+	(label "EBAT"
+		(at 175.26 100.33 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "71a4fdf2-9a19-4d3b-b5c0-4d5dd2bdc964")
+	)
 	(label "SCL"
 		(at 114.3 97.79 0)
 		(effects
@@ -1579,7 +1589,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 129.54 87.63 0)
 			(effects
 				(font
@@ -1646,7 +1656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 124.46 87.63 0)
 			(effects
 				(font

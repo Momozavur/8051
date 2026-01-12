@@ -3218,6 +3218,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 81.28) (xy 54.61 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d20408ec-dd2f-4623-9968-b0b22d235211")
+	)
+	(wire
+		(pts
 			(xy 168.91 135.89) (xy 187.96 135.89)
 		)
 		(stroke
@@ -3388,6 +3398,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 86.36) (xy 54.61 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b625b1-4b67-41a3-b980-c2b9ffe5bd16")
+	)
+	(wire
+		(pts
 			(xy 168.91 118.11) (xy 175.26 118.11)
 		)
 		(stroke
@@ -3435,6 +3455,16 @@
 			(justify left bottom)
 		)
 		(uuid "094a3762-b33c-4fe6-993e-9edd287fe67a")
+	)
+	(label "P3.1"
+		(at 54.61 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0d99ef3f-2ce0-4ebe-b4a7-48e3c359d174")
 	)
 	(label "P0.5"
 		(at 168.91 110.49 0)
@@ -3495,6 +3525,16 @@
 			(justify left bottom)
 		)
 		(uuid "2c78720c-116d-4c7c-a311-a8200f715434")
+	)
+	(label "P3.0"
+		(at 54.61 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "32642bc1-cfd2-46e9-aeda-5d58ece00df4")
 	)
 	(label "P2.7"
 		(at 173.99 125.73 180)
@@ -4374,7 +4414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 94.9452 166.37 0)
 			(effects
 				(font
@@ -4598,7 +4638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 65.0748 166.37 0)
 			(effects
 				(font
@@ -4735,7 +4775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 162.2552 80.01 0)
 			(effects
 				(font
@@ -5530,48 +5570,6 @@
 		)
 	)
 	(sheet
-		(at 171.45 20.32)
-		(size 17.78 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "1e9db370-c4e8-4c0a-916d-12f56582ff8e")
-		(property "Sheetname" "TEMP_SENSOR"
-			(at 171.45 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "tempsensor.kicad_sch"
-			(at 171.45 33.6046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "8051"
-				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 113.03 20.32)
 		(size 17.78 12.7)
 		(exclude_from_sim no)
@@ -5718,90 +5716,6 @@
 		)
 	)
 	(sheet
-		(at 200.66 20.32)
-		(size 17.78 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "6fce213a-4bf9-47dc-885b-e62806183ec7")
-		(property "Sheetname" "ADC_POT"
-			(at 200.66 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "adcpot.kicad_sch"
-			(at 200.66 33.6046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "8051"
-				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 229.87 20.32)
-		(size 17.78 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "86c60fcb-117a-44db-92cf-71054f698c42")
-		(property "Sheetname" "LIGHT_SENSOR"
-			(at 229.87 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "lightsensor.kicad_sch"
-			(at 229.87 33.6046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "8051"
-				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7"
-					(page "11")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 52.07 20.32)
 		(size 17.78 12.7)
 		(exclude_from_sim no)
@@ -5886,7 +5800,7 @@
 		)
 	)
 	(sheet
-		(at 200.66 48.26)
+		(at 171.45 20.32)
 		(size 17.78 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5902,7 +5816,7 @@
 		)
 		(uuid "b24a00f6-0524-4140-82af-dcc13e8e5d8b")
 		(property "Sheetname" "MOTOR_DRIVER"
-			(at 200.66 47.5484 0)
+			(at 171.45 19.6084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5911,7 +5825,7 @@
 			)
 		)
 		(property "Sheetfile" "motordriver.kicad_sch"
-			(at 200.66 61.5446 0)
+			(at 171.45 33.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6047,6 +5961,68 @@
 			(project "8051"
 				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7"
 					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 77.47)
+		(size 17.78 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c33694a5-c83c-4438-97ca-62a1c1a1e51a")
+		(property "Sheetname" "USB"
+			(at 29.21 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 29.21 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TXD" input
+			(at 46.99 86.36 0)
+			(uuid "26dc5cc0-043d-46b8-be3a-352803ed9884")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RXD" input
+			(at 46.99 81.28 0)
+			(uuid "36f36ec0-1d71-423d-bf1e-cb8381e46e2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "8051"
+				(path "/1fd5cb60-9043-4003-959b-0153e5ed66c7"
+					(page "10")
 				)
 			)
 		)
