@@ -604,6 +604,14 @@
       {
         "netclass": "BAT",
         "pattern": "/RTC/EBAT"
+      },
+      {
+        "netclass": "BAT",
+        "pattern": "/USB/3v3"
+      },
+      {
+        "netclass": "BAT",
+        "pattern": "/USB/3v"
       }
     ]
   },

@@ -2156,6 +2156,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "REMOVE PULL UPS??"
+		(exclude_from_sim no)
+		(at 118.364 187.452 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "d25a0f0a-b108-42d6-bdef-499d7e137b03")
+	)
 	(junction
 		(at 187.96 135.89)
 		(diameter 0)
